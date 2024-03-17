@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cakes by Rash", "Cakes by Rash\Cakes by Rash.csproj", "{C7FF4D69-758F-459B-AC69-6D7FF5D5F02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FF4D69-758F-459B-AC69-6D7FF5D5F02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FF4D69-758F-459B-AC69-6D7FF5D5F02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FF4D69-758F-459B-AC69-6D7FF5D5F02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FF4D69-758F-459B-AC69-6D7FF5D5F02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD29818E-2CCE-4D70-9408-C22E2F673FE9}
+	EndGlobalSection
+EndGlobal

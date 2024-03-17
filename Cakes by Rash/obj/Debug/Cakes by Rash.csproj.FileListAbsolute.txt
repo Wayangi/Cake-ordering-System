@@ -1,0 +1,22 @@
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\bin\Debug\Cakes by Rash.exe.config
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\bin\Debug\Cakes by Rash.exe
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\bin\Debug\Cakes by Rash.pdb
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes by Rash.csproj.AssemblyReference.cache
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.Form1.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.Form2.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.Properties.Resources.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes by Rash.csproj.GenerateResource.cache
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes by Rash.csproj.CoreCompileInputs.cache
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes by Rash.exe
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes by Rash.pdb
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.Form3.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.Form4.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.NewFolder1.UC_welcome.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.NewFolder1.UC_add.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.NewFolder1.Uc_placeorder.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\bin\Debug\Guna.UI2.dll
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes by Rash.csproj.CopyComplete
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.NewFolder1.UC_Udate.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.NewFolder1.UC_Remove.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.NewFolder1.mainMenu.resources
+C:\Users\Ewis\source\repos\Cakes by Rash\Cakes by Rash\obj\Debug\Cakes_by_Rash.Orders.resources
